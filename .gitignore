@@ -1,0 +1,8 @@
+Modmail/.env
+Modmail/package-lock.json
+music-bot/Music-bot/config.js
+music-bot/Music-bot/node_modules
+music-bot/Music-bot/package-lock.json
+Bot/node_modules
+Bot/JSON
+bot/package-lock.json
